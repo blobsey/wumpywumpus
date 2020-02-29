@@ -29,6 +29,7 @@
 #include <queue>
 #include <stack>
 #include <cmath>
+#include <algorithm>
 
 using namespace std;
 class MyAI : public Agent
